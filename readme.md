@@ -13,3 +13,5 @@
 - [ ] お問い合わせ　＝＞　footerの変更、illustrationを入れる、フォームの項目を調整
 - [ ] privacy　＝＞　footerの変更、paddingの調整、項目と項目の間をスペースを大きくする、<h/> と <p/>タグのfont-sizeを調整する。アドレスのところを目立つようにする
 - [ ] site mapを調整、footer調整
+
+<!-- kato test -->
