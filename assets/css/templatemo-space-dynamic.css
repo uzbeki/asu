@@ -143,7 +143,11 @@ global styles
 html,
 body {
   background: #fff;
-  font-family: 'Poppins', sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  height: 100vh;
+  margin: 0;
 }
 
 ::selection {
@@ -1388,15 +1392,17 @@ info Style
 */
 
 .stock-main {
+  padding: 0;
+  margin-top: 100px;
   background-image: url(../images/about-bg.png);
   width: 100%;
-  height: 655px;
-  padding-top: 41%;
+  height: 100%;
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
-  padding: 140px 0px 120px 0px;
-  margin-top:50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 .stock-main .left-image {
