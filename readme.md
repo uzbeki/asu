@@ -15,3 +15,4 @@
 - [ ] site mapを調整、footer調整
 
 <!-- kato test -->
+<!-- kuzuya test -->
