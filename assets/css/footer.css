@@ -10,6 +10,7 @@ footer {
 	background-color: #eeeeee;
 	color: black;
 	text-align: center;
+	font-size: 2vw;
 }
 
 ul.footer-menu li {
@@ -19,6 +20,7 @@ ul.footer-menu li {
 footer p {
 	text-align: center;
 	margin: 30px 0px 45px 0px;
+	font-size: 2vw;
 }
 
 footer p a {
@@ -26,5 +28,5 @@ footer p a {
 }
 
 .forFooter {
-	justify-content: space-between
+	justify-content: space-between;
 }
