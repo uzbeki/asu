@@ -153,7 +153,7 @@
     <!-- Scripts -->
     <script>
       const redirectPageInput = document.querySelector('#formRedirectPage');
-      redirectPageInput.value = `http://${window.location.host}/pages/thankyou.html`;
+      redirectPageInput.value = `${window.location.href.replace("contact", "thankyou")}`;
     </script>
     <script src="../vendor/jquery/jquery.min.js"></script>
     <script src="../vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
