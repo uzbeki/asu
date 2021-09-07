@@ -898,7 +898,7 @@ Banner Style
   top: 100px;
   width: 193px;
   height: 467px;
-}
+} 
 
 .main-banner:before {
   content: '';
@@ -909,7 +909,7 @@ Banner Style
   top: 100px;
   width: 98px;
   height: 290px;
-}
+} 
 
 .main-banner .left-content {
   margin-right: 45px;
