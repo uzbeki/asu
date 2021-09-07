@@ -1118,6 +1118,10 @@ business-info Style
   color: white;
 }
 
+.business-info .contents-ele .col-lg-6 .item {
+  height: 150px;
+}
+
 .business-info .progress-skill-bar {
   margin-bottom: 30px;
   position: relative;
