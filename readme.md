@@ -1,8 +1,8 @@
 # やること
-- [ ] Footer　＝＞　スタイリング、positionをページの一番下によせること（どのページでも） 
-- [ ] TOPぺーじ　＝＞　会社紹介の見え方を変更
+- [ ] Footer　＝＞　スタイリング、positionをページの一番下によせること（どのページでも）**(9/7追加)footerの空白、モバイル版でのレイアウトの崩れ
+- [ ] TOPぺーじ　＝＞　会社紹介の見え方を変更、元あるデザインを削除し、背景を暗くする
 - [x] 事業内応　＝＞　`.business-main`を`header`との距離を変更、`.item wow fadeIn animated`をテーブルからrefactorする。、footerの変更
-- [x] 電子部品　＝＞　cardの高さを同じになるようにする、footerの変更
+- [ ] 電子部品　＝＞　cardの高さを同じになるようにする、footerの変更、**(9/7追加)headerと画像のスペースの削除
 - [x] 光学機器事業　＝＞　footerの変更
 - [x] 会社情報　＝＞　footerの変更、`.business-main`を`header`との距離を変更、`.item wow fadeIn animated`をテーブルからrefactorする。
 - [ ] 会社概要　＝＞　footerの変更、アクセス方法でマップのwidthを１００％か、undrawからillustrationをとってくるか、マップのタイトルをキレイにする、**テーブルは320pxの画面で壊れるバグを修正**
