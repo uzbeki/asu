@@ -10,7 +10,7 @@ footer {
 	background-color: #eeeeee;
 	color: black;
 	text-align: center;
-	font-size: 2vw;
+	font-size: 1rem;
 }
 
 ul.footer-menu li {
@@ -20,7 +20,7 @@ ul.footer-menu li {
 footer p {
 	text-align: center;
 	margin: 30px 0px 45px 0px;
-	font-size: 2vw;
+	font-size: 1rem;
 }
 
 footer p a {
