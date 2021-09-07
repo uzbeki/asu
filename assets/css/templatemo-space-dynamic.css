@@ -1293,6 +1293,10 @@ info-data Style
 .info-data table tr:nth-child(odd){
   background-color: #eee
 }
+
+.info-data .section-data2 p {
+  padding: 5px 0;
+}
 /* 
 ---------------------------------------------
 top
