@@ -24,3 +24,7 @@ footer p {
 footer p a {
 	color: #fe3f40;
 }
+
+.forFooter {
+	justify-content: space-between
+}
