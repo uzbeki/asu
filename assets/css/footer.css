@@ -11,6 +11,12 @@ footer {
 	color: black;
 	text-align: center;
 	font-size: 1rem;
+	display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+footer .footer-menu {
+	margin-top: 10px;
 }
 
 ul.footer-menu li {
@@ -19,7 +25,7 @@ ul.footer-menu li {
 
 footer p {
 	text-align: center;
-	margin: 30px 0px 45px 0px;
+	margin: 10px 0;
 	font-size: 1rem;
 }
 

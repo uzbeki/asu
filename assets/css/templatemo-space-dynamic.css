@@ -146,6 +146,12 @@ body {
   font-family: 'Poppins', sans-serif;
 }
 
+body {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
 ::selection {
   background: #03a4ed;
   color: #fff;
