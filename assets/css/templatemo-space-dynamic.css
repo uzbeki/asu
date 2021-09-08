@@ -1126,7 +1126,6 @@ business-info Style
   margin-bottom: 70px;
   padding-top: 120px;
 }
-
 .business-info .left-image {
   margin-right: 45px;
 }
@@ -1839,6 +1838,11 @@ responsive
   }
   .business-info {
     margin-top: 200px;
+  }
+  @media (max-width: 992px) {
+    .business-info {
+      margin-top: 0;
+    }
   }
   .business-info .left-image {
     margin-right: 0px;

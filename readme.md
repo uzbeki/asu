@@ -3,7 +3,7 @@
 - [×] TOPぺーじ　＝＞　会社紹介の見え方を変更、元あるデザインを削除し、背景を暗くする
 - [x] 事業内応　＝＞　`.business-main`を`header`との距離を変更、`.item wow fadeIn animated`をテーブルからrefactorする。、footerの変更
 (9/7追加)カードの大きさ、写真の位置を調整する。最小時のヘッダー
-- [ ] 電子部品　＝＞　cardの高さを同じになるようにする、footerの変更、**(9/7追加)headerと画像のスペースの削除
+- [ｘ] 電子部品　＝＞　cardの高さを同じになるようにする、footerの変更、**(9/7追加)headerと画像のスペースの削除
 - [ｘ] 光学機器事業　＝＞　footerの変更
 - [ｘ] 会社情報　＝＞　footerの変更、`.business-main`を`header`との距離を変更、`.item wow fadeIn animated`をテーブルからrefactorする。
 (9/7追加)カードの大きさ、写真の位置を調整する、最小時のヘッダー
