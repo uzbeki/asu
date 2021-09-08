@@ -1,0 +1,22 @@
+.partner-data {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.partner-list, .partner-list li {
+    list-style: square;    
+}
+
+@media (max-width: 425px) {
+    .partner-data {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+    }
+
+    .partner-list li{
+        padding-bottom: 10px;
+    }
+}
