@@ -2015,3 +2015,32 @@ responsive
     word-break: break-word;
   }
 }
+
+/* sitemap */
+
+.sitemap-icon {
+  color:#204080;
+}
+#sitemap-list .left-list {
+  display: flex;
+  flex-direction: column;
+  margin: 0 30px;
+}
+#sitemap-list .center-list {
+  display: flex;
+  flex-direction: column;
+  margin: 0 30px;
+}
+#sitemap-list .right-list {
+  display: flex;
+  flex-direction: column;
+  margin: 0 30px;
+}
+#sitemap-list{
+  display: flex;    
+  justify-content: space-around;
+}
+
+#sitemap-list .category {
+ margin: 5px 0;
+}
