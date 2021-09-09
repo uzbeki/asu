@@ -2023,8 +2023,11 @@ responsive
   }
 }
 
-/* sitemap */
-
+/* 
+---------------------------------------------
+Sitemap
+--------------------------------------------- 
+*/
 .sitemap-icon {
   color: #204080;
 }
@@ -2047,7 +2050,7 @@ responsive
   #sitemap-list .left-list,
   #sitemap-list .center-list,
   #sitemap-list .right-list {
-    margin: 0 ;
+    margin: 0;
   }
 }
 
@@ -2081,4 +2084,26 @@ responsive
   .floating-contact-button {
     display: block;
   }
+}
+/* 
+---------------------------------------------
+Privacy Policy
+--------------------------------------------- 
+*/
+.privacy-data {
+  margin: 10px 10px;
+}
+.privacy-data .privacy-chapter,
+.privacy-data .privacy-address {
+  margin: 20px 20px;
+}
+.privacy-data .get-personal-info,
+.privacy-data .privacy-contact {
+  margin: 5px 5px 5px 10px;
+}
+.privacy-data .privacy-contact {
+  padding: 1em;
+  width: fit-content;
+  border: 3px dashed #525151; 
+  font-weight: 600;
 }
