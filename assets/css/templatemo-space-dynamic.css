@@ -1658,7 +1658,9 @@ contact
   background-image: url(../images/contact-bg.png);
   background-repeat: no-repeat;
   background-position: center center;
-  background-size: cover;
+  /* background-size: cover; */
+  background-size: inherit;
+  text-align: center;
 }
 
 .contact-us .section-heading h2,
@@ -1960,6 +1962,7 @@ responsive
   }
   .contact-us .section-heading {
     text-align: center;
+    margin-top: 3rem;
   }
   form#contact {
     margin-left: 0px;
