@@ -1,0 +1,17 @@
+/* 
+---------------------------------------------
+info-data Style
+--------------------------------------------- 
+*/
+
+
+.info-data table tr td{
+	padding: 10px 0;
+    text-align: center;
+}
+
+@media screen and (max-width: 490px) {
+    .info-data #stock-table th{
+        min-width: none;
+    }
+}
