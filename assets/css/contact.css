@@ -1,0 +1,36 @@
+.js-preloader {
+    z-index: auto;
+}
+
+.img-section {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.contact-img {
+    width: 50%;
+}
+
+@media(max-width:992px) {
+    .contact-us {
+        background-image: none;
+        margin-top: 100px;
+        padding-top: 30px;
+    }
+
+    .contact-img {
+        width: 30%;
+    }
+
+    .contact-text{
+        color: black !important;
+        margin: 0 !important;
+    }
+}
+
+@media (max-width: 425px) {
+    .contact-img {
+      display: none;
+    }
+  }
