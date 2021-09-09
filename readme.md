@@ -13,7 +13,7 @@
 (9/7追加)カードの大きさ、写真の位置を調整する。最小時のヘッダー
 - [x] 取り扱いメーカー　＝＞　一覧の表示 [参考資料](https://www.devicepartners.co.jp/service/device/)
 - [x] 在庫一覧　＝＞　footerの変更
-- [ ] お問い合わせ　＝＞　footerの変更、illustrationを入れる、フォームの項目を調整、**モバイル画面のヘッダー問い合わせがみえるようにする**
+- [ｘ] お問い合わせ　＝＞　footerの変更、illustrationを入れる、フォームの項目を調整、**モバイル画面のヘッダー問い合わせがみえるようにする**
 - [ｘ] privacy　＝＞　footerの変更、paddingの調整、項目と項目の間をスペースを大きくする、<h/> と <p/>タグのfont-sizeを調整する。アドレスのところを目立つようにする
 - [ｘ] site mapを調整、footer調整
 - [ｘ] thankyou.htmlのスタイリング
