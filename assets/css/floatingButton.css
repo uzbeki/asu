@@ -1,0 +1,18 @@
+@media (min-width:769px) {
+    .floating-button {
+        display: none;
+    }
+}
+
+.floating-button {
+    position: fixed;
+    bottom: 15%; 
+    right: 10px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    font-size: 3rem;
+    background-color: #03a4ed;
+    color: white;
+    border: none;
+}
