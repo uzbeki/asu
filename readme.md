@@ -30,9 +30,9 @@
 - [ ] topページで、下のカードがモバイル画面で出ないことがたまにある。（押さないとでない 9/9会社情報のページでも見られる） beki
 - [ ] モバイル画面で、メニューのdropdownがでない、dropdownメニューの場所がずれている。beki
 - [ ] privacy plocy, sitemapの問い合わせボタンがまだ kuzuya 
-- [ ] partners.htmlのモバイル画面の対応はまだ kato
+- [x] partners.htmlのモバイル画面の対応はまだ kato
 - [ ] electroniccomponents.html　のモバイル画面の対応はまだ（カードが見えてこない）beki
-- [ ] footer のことばのなかにスペースを入れる kato
+- [x] footer のことばのなかにスペースを入れる kato
 - [ ] info.htmlのメインのところ1024x750から対応するように（モバイル画面が崩れていないかの確認も）kato
 <!-- kato test -->
 <!-- kuzuya test -->
