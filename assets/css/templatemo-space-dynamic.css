@@ -2035,28 +2035,37 @@ Sitemap
 --------------------------------------------- 
 */
 .sitemap-icon {
-  color: #204080;
+  color: #3175ff;
 }
 #sitemap-list {
   display: flex;
   flex-direction: row;
   justify-content: space-around;
   margin: 20px 10px;
-  font-size: 1rem;
+  font-size: 1.3rem;
 }
 .category {
   margin: 0 10px;
 }
 
 @media (max-width: 830px) {
+  .sitemap-pagetitle h1 {
+    padding: 0.7rem 0;
+    font-size: 1.9rem;
+  }
   #sitemap-list {
     margin: 20px 5px;
-    font-size: 0.8rem;
+    font-size: 1rem;
   }
 }
 @media (max-width: 660px) {
+  .sitemap-pagetitle h1 {
+    padding: 0.5rem 0;
+    font-size: 1.5rem;
+  }
   #sitemap-list {
-    font-size: 0.5rem;
+    margin-left: 15px;
+    font-size: 0.7rem;
     display: flex;
     flex-direction: column;
   }
