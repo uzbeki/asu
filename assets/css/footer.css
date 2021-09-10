@@ -6,12 +6,13 @@ Footer Style
 
 footer {
   width: 100%;
-  height: 100px;
+  /* height: 100px; */
   background-color: #eeeeee;
   color: black;
   text-align: center;
   font-size: 1rem;
   display: flex;
+  gap: 5px;
   flex-direction: column;
   justify-content: center;
 }
@@ -25,7 +26,7 @@ ul.footer-menu li {
 
 footer p {
   text-align: center;
-  margin: 10px 0;
+  /* margin: 10px 0; */
   font-size: 1rem;
 }
 
