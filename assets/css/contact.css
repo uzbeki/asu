@@ -1,3 +1,10 @@
+.tel-number{}
+.tel-number a{
+	/* color: white; */
+}
+.tel-number a i{
+	/* color: white; */
+}
 .js-preloader {
 	z-index: auto;
 }

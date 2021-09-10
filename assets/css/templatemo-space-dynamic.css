@@ -323,6 +323,9 @@ body {
   text-align: center;
   background-color: #eeeeee;
 }
+.pagetitle h1{
+  padding: 1rem 0;
+}
 
 .privacy-data {
   text-align: left;
@@ -1684,7 +1687,7 @@ contact
   color: #fff;
 }
 
-.phone-info h4 span i {
+.phone-info h4 i {
   width: 46px;
   height: 46px;
   display: inline-block;
@@ -1698,7 +1701,7 @@ contact
   margin-right: 15px;
 }
 
-.phone-info h4 span a {
+.phone-info h4 a {
   color: #fff;
   font-size: 15px;
   font-weight: 400;
@@ -2041,6 +2044,7 @@ Sitemap
   flex-direction: column;
   margin: 0 30px;
 }
+
 #sitemap-list {
   display: flex;
   justify-content: space-around;
