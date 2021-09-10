@@ -2050,13 +2050,19 @@ Sitemap
 }
 #sitemap-list {
   display: flex;
-  flex-direction: row;
   justify-content: space-around;
   margin: 20px 10px;
   font-size: 1.3rem;
 }
-.category {
-  margin: 0 10px;
+#sitemap-list li.category ul{
+  margin-left: 1rem;
+}
+#sitemap-list li.category {
+  /* margin: 0 10px; */
+  margin-bottom: 1rem;
+}
+#sitemap-list li.category a{
+  color: #1e1e1e;
 }
 
 @media (max-width: 830px) {
@@ -2076,9 +2082,12 @@ Sitemap
   }
   #sitemap-list {
     margin-left: 15px;
-    font-size: 0.7rem;
-    display: flex;
+    font-size: 1.2rem;
     flex-direction: column;
+    width: fit-content;
+  }
+  #sitemap-list .category {
+    border-bottom: 1px solid #204080;
   }
 }
 
