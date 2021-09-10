@@ -106,7 +106,7 @@
 
     WOW.prototype.customStyle = function (hidden, duration, delay, iteration) {
       var style;
-      if (window.innerWidth > 768) {
+      if (window.innerWidth > 992) {
         style = hidden ? "visibility: hidden; -webkit-animation-name: none; -moz-animation-name: none; animation-name: none;" : "visibility: visible;";
       }
       if (duration) {

@@ -1095,6 +1095,9 @@ business Style
 .stock-main .services p {
 	color: white;
 }
+#info > div > div > div.col-lg-8.align-self-center > div > div.row > div{
+	width: 100%;
+}
 
 .business-main .services hr {
 	color: white;
