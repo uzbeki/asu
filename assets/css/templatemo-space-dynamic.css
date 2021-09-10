@@ -1095,13 +1095,12 @@ business Style
 .stock-main .services p {
 	color: white;
 }
-@media screen and (max-width: 992px) {	
+@media screen and (max-width: 992px) {
 	#info > div > div > div.col-lg-8.align-self-center > div > div.row > div,
-	.business-main  .col-lg-6 {
+	.business-main .col-lg-6 {
 		width: 100%;
 		margin-bottom: 1rem;
 	}
-	
 }
 .business-main .services hr {
 	color: white;
@@ -2026,13 +2025,21 @@ responsive
 Sitemap
 --------------------------------------------- 
 */
+.sitemap-contents {
+	width: 90%;
+	margin: 0 auto;
+}
+#sitemap-title {
+	border-bottom: 1px solid #a9a9a9;
+	padding: 10px 0;
+}
 .sitemap-icon {
 	color: #3175ff;
 }
 #sitemap-list {
 	display: flex;
-	justify-content: space-around;
-	margin: 20px 10px;
+	justify-content: space-between;
+	margin: 20px 0;
 	font-size: 1.3rem;
 }
 #sitemap-list li.category ul {
@@ -2057,6 +2064,9 @@ Sitemap
 	}
 }
 @media (max-width: 660px) {
+	.sitemap-contents {
+		margin-top: 2rem;
+	}
 	.sitemap-pagetitle h1 {
 		padding: 0.5rem 0;
 		font-size: 1.5rem;
