@@ -250,7 +250,6 @@ body {
 	margin-top: 120px;
 }
 
-
 .section-heading h2 {
 	font-size: 30px;
 	text-transform: capitalize;
@@ -263,7 +262,7 @@ body {
 }
 @media only screen and (max-width: 320px) {
 	.section-heading h2 {
-    font-size: 26px;
+		font-size: 26px;
 	}
 }
 .section-heading h2 em {
@@ -1092,7 +1091,7 @@ business Style
 }
 
 .business-main .services p,
-.info-main .services p, 
+.info-main .services p,
 .stock-main .services p {
 	color: white;
 }
@@ -2125,16 +2124,27 @@ Privacy Policy
 Thank You
 --------------------------------------------- 
 */
-
+#thankyou-main {
+	margin-top: 100px;
+	height: 100%;
+	display: grid;
+	place-content: center;
+}
 #thankyou {
 	display: flex;
-	margin-top: 100px;
-	height: 90%;
+	margin: 0 5%;
+}
+#thankyou .illustration {
+	display: grid;
+	place-content: center;
 }
 #thankyou img {
 	display: flex;
 	width: 380px;
 	height: auto;
+}
+#thankyou .thankyou-message p{
+	font-size: 1rem;
 }
 #thankyou .thankyou-message {
 	display: flex;
@@ -2144,6 +2154,7 @@ Thank You
 }
 #thankyou .thankyou-message h1 {
 	margin-bottom: 15px;
+	font-size: 2rem;
 }
 @media (max-width: 600px) {
 	#thankyou img {
