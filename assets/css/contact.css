@@ -1,8 +1,19 @@
-.tel-number{}
-.tel-number a{
+.tel-number {
+	margin: 1rem 0;
+	display: flex;
+	justify-content: space-evenly;
+	gap: 1rem;
+}
+
+@media screen and (max-width: 376px) {
+	.tel-number {
+		flex-direction: column;
+	}
+}
+.tel-number a {
 	/* color: white; */
 }
-.tel-number a i{
+.tel-number a i {
 	/* color: white; */
 }
 .js-preloader {
@@ -24,7 +35,7 @@
 		/* background-image: none; */
 		margin-top: 100px;
 		padding-top: 30px;
-        background-size: cover;
+		background-size: cover;
 	}
 
 	.contact-img {
