@@ -79,8 +79,8 @@
 
 @media (max-width: 1024px) {
   .top {
-    background-position: bottom;
-    background-size: 140%;
+    background-position: 100%;
+    background-size: 130%;
   }
 
   .col-lg-4 {
