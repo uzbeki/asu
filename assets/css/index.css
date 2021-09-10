@@ -1,16 +1,14 @@
 /* reset */
-body{
-    margin: 0;
-    padding: 0;
+body {
+	margin: 0;
+	padding: 0;
 }
 
-li{
-    list-style: none;
+li {
+	list-style: none;
 }
 
-a{
-    text-decoration: none;
+a {
+	text-decoration: none;
 }
 /* reset end */
-
-
