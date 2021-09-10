@@ -737,6 +737,9 @@ header
   .background-header .main-nav .nav {
     margin-top: 80px !important;
   }
+  .dropdown:hover > .dropdown-menu {
+    display: none;
+  }
   .header-area .main-nav .logo {
     color: #1e1e1e;
   }
@@ -766,6 +769,8 @@ header
   }
   .header-area .main-nav {
     overflow: hidden;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
   }
   .header-area .main-nav .nav {
     float: none;
@@ -794,12 +799,15 @@ header
     padding-right: 0px !important;
   }
   .header-area .main-nav .nav li a {
-    height: 50px !important;
+    height: unset;
     line-height: 50px !important;
-    padding: 0px !important;
+    padding: 10px 0;
     border: none !important;
     background: #f7f7f7 !important;
     color: #191a20 !important;
+  }
+  .header-area .main-nav .nav li a::after{
+    display: none;
   }
   .header-area .main-nav .nav li a:hover {
     background: #eee !important;
@@ -1125,9 +1133,9 @@ business-info Style
 */
 
 .business-info {
-  margin-top: 0px;
+  margin-top: 150px;
   margin-bottom: 70px;
-  padding-top: 120px;
+  /* padding-top: 120px; */
 }
 .business-info .left-image {
   margin-right: 45px;
@@ -1146,19 +1154,23 @@ business-info Style
   margin-bottom: 30px;
 }
 
-.business-info .contents-ele {
+@media screen and (max-width: 768px) {
+  .business-info .contents-ele .row {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+  }
 }
 
 .business-info .contents-ele h3 {
   color: black;
-  margin-bottom: 10px;
+  margin-bottom: 1rem;
 }
 
 .business-info .contents-ele .item {
-  background-color: #4080ff;
-  padding: 10px;
-  border: 1px solid;
-  border-color: white;
+  background: linear-gradient( 
+    105deg, rgba(32, 64, 128, 1) 0%, rgba(255, 44, 109, 1) 100% );;
+  padding: 25px;
   border-radius: 20px;
 }
 
@@ -1175,7 +1187,7 @@ business-info Style
 }
 
 .business-info .contents-ele .col-lg-6 .item {
-  height: 150px;
+  height: 100%;
 }
 
 .business-info .progress-skill-bar {
@@ -2025,7 +2037,6 @@ responsive
 
   .info-data table td {
     font-size: smaller;
-    word-break: break-word;
   }
 }
 
@@ -2080,16 +2091,17 @@ Sitemap
   display: none;
   position: fixed;
   bottom: 5%;
-  right: 5%;
+  right: 8%;
   background: #204080;
   padding: 10px 15px;
   border-radius: 50%;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
   transition: all 0.5s ease-in-out;
+  z-index: 10;
 }
 .floating-contact-button i {
-  color: #fff;
-  font-size: 1.5rem;
+  color: rgb(211, 211, 211);
+  font-size: 2rem;
 }
 
 .floating-contact-button:active,
