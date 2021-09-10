@@ -1407,6 +1407,8 @@ top
 	top: -100px;
 	opacity: 1;
 	visibility: visible;
+	z-index: 1000;
+	width: 100%;
 }
 
 .top-contents .item:hover .showed-content {
