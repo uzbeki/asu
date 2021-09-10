@@ -1095,10 +1095,14 @@ business Style
 .stock-main .services p {
 	color: white;
 }
-#info > div > div > div.col-lg-8.align-self-center > div > div.row > div{
-	width: 100%;
+@media screen and (max-width: 992px) {	
+	#info > div > div > div.col-lg-8.align-self-center > div > div.row > div,
+	.business-main  .col-lg-6 {
+		width: 100%;
+		margin-bottom: 1rem;
+	}
+	
 }
-
 .business-main .services hr {
 	color: white;
 }
@@ -2146,7 +2150,7 @@ Thank You
 	width: 380px;
 	height: auto;
 }
-#thankyou .thankyou-message p{
+#thankyou .thankyou-message p {
 	font-size: 1rem;
 }
 #thankyou .thankyou-message {
