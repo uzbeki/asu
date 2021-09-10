@@ -2118,7 +2118,7 @@ Sitemap
 .floating-contact-button:focus {
   transform: scale(1.1);
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 800px) {
   .floating-contact-button {
     display: block;
   }

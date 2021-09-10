@@ -33,6 +33,6 @@
 - [x] partners.htmlのモバイル画面の対応はまだ `kato`
 - [x] electroniccomponents.html　のモバイル画面の対応はまだ（カードが見えてこない）`beki`
 - [x] footer のことばのなかにスペースを入れる `kato`
-- [ ] info.htmlのメインのところ1024x750から対応するように（モバイル画面が崩れていないかの確認も）`kato`
+- [x] info.htmlのメインのところ1024x750から対応するように（モバイル画面が崩れていないかの確認も）`kato`
 <!-- kato test -->
 <!-- kuzuya test -->
