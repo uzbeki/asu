@@ -2092,7 +2092,7 @@ Sitemap
 .floating-contact-button:focus {
 	transform: scale(1.1);
 }
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 992px) {
 	.floating-contact-button {
 		display: block;
 	}
