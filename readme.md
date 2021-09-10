@@ -26,13 +26,14 @@
 - [x] privacy policy, site map　＋　モバイル画面での見え方
 - [x] mobile画面で、お問い合わせがない。（9/9プライバシーポリシーとサイトマップでボタンの修正）
 - [x] モバイル画面で在庫一覧のテーブルの
-- [ ] site map　＋　モバイル画面での見え方 `kuzuya`
+- [x] site map　＋　モバイル画面での見え方 `kuzuya`
 - [x] topページで、下のカードがモバイル画面で出ないことがたまにある。（押さないとでない 9/9会社情報のページでも見られる） `beki`
 - [x] モバイル画面で、メニューのdropdownがでない、dropdownメニューの場所がずれている。`beki`
-- [ ] privacy plocy, sitemapの問い合わせボタンがまだ `kuzuya` 
+- [x] privacy plocy, sitemapの問い合わせボタンがまだ `kuzuya` 
 - [x] partners.htmlのモバイル画面の対応はまだ `kato`
 - [x] electroniccomponents.html　のモバイル画面の対応はまだ（カードが見えてこない）`beki`
 - [x] footer のことばのなかにスペースを入れる `kato`
 - [x] info.htmlのメインのところ1024x750から対応するように（モバイル画面が崩れていないかの確認も）`kato`
+
 <!-- kato test -->
 <!-- kuzuya test -->
