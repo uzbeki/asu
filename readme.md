@@ -32,7 +32,7 @@
 - [ ] privacy plocy, sitemapの問い合わせボタンがまだ kuzuya 
 - [x] partners.htmlのモバイル画面の対応はまだ kato
 - [ ] electroniccomponents.html　のモバイル画面の対応はまだ（カードが見えてこない）beki
-- [ ] footer のことばのなかにスペースを入れる kato
+- [x] footer のことばのなかにスペースを入れる kato
 - [ ] info.htmlのメインのところ1024x750から対応するように（モバイル画面が崩れていないかの確認も）kato
 <!-- kato test -->
 <!-- kuzuya test -->
