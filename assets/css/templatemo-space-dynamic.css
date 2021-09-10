@@ -323,7 +323,7 @@ body {
   text-align: center;
   background-color: #eeeeee;
 }
-.pagetitle h1{
+.pagetitle h1 {
   padding: 1rem 0;
 }
 
@@ -2037,27 +2037,28 @@ Sitemap
 .sitemap-icon {
   color: #204080;
 }
-#sitemap-list .left-list,
-#sitemap-list .center-list,
-#sitemap-list .right-list {
-  display: flex;
-  flex-direction: column;
-  margin: 0 30px;
-}
-
 #sitemap-list {
   display: flex;
+  flex-direction: row;
   justify-content: space-around;
+  margin: 20px 10px;
+  font-size: 1rem;
 }
-@media (max-width: 530px) {
+.category {
+  margin: 0 10px;
+}
+
+@media (max-width: 830px) {
+  #sitemap-list {
+    margin: 20px 5px;
+    font-size: 0.8rem;
+  }
+}
+@media (max-width: 660px) {
   #sitemap-list {
     font-size: 0.5rem;
-  }
-
-  #sitemap-list .left-list,
-  #sitemap-list .center-list,
-  #sitemap-list .right-list {
-    margin: 0;
+    display: flex;
+    flex-direction: column;
   }
 }
 
