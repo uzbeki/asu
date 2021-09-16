@@ -1,0 +1,344 @@
+[
+    {
+        "title": "ANALOG DEVICES",
+        "img_src": "https://www.jsuntech.co.jp/img/mo01.jpg",
+        "img_file": "img_0.jpg",
+        "href": "http://www.analog.com/jp/index.html"
+    },
+    {
+        "title": "ASIX",
+        "img_src": "https://www.jsuntech.co.jp/img/mo02.jpg",
+        "img_file": "img_1.jpg",
+        "href": "http://www.asix.com.tw/"
+    },
+    {
+        "title": "BROADCOM",
+        "img_src": "https://www.jsuntech.co.jp/img/mo04.jpg",
+        "img_file": "img_3.jpg",
+        "href": "https://jp.broadcom.com/"
+    },
+    {
+        "title": "CIRRUS LOGIC",
+        "img_src": "https://www.jsuntech.co.jp/img/mo05.jpg",
+        "img_file": "img_4.jpg",
+        "href": "https://www.jp.cirrus.com/index.html"
+    },
+    {
+        "title": "Cypress Semiconductor",
+        "img_src": "https://www.jsuntech.co.jp/img/mo07.jpg",
+        "img_file": "img_5.jpg",
+        "href": "http://www.cypress.com/"
+    },
+    {
+        "title": "Dialight",
+        "img_src": "https://www.jsuntech.co.jp/img/mo08.jpg",
+        "img_file": "img_6.jpg",
+        "href": "https://www.dialight.com/"
+    },
+    {
+        "title": "Dialogic",
+        "img_src": "https://www.jsuntech.co.jp/img/mo09.jpg",
+        "img_file": "img_7.jpg",
+        "href": "https://www.dialogic.com/"
+    },
+    {
+        "title": "EXAR",
+        "img_src": "https://www.jsuntech.co.jp/img/mo11.jpg",
+        "img_file": "img_8.jpg",
+        "href": "http://www.exarcorp.cn/"
+    },
+    {
+        "title": "FTDI",
+        "img_src": "https://www.jsuntech.co.jp/img/mo13.jpg",
+        "img_file": "img_9.jpg",
+        "href": "http://www.ftdichip.com/"
+    },
+    {
+        "title": "GSI Technology",
+        "img_src": "https://www.jsuntech.co.jp/img/mo14.jpg",
+        "img_file": "img_10.jpg",
+        "href": "http://www.gsitechnology.com/"
+    },
+    {
+        "title": "Infineon",
+        "img_src": "https://www.jsuntech.co.jp/img/mo16.jpg",
+        "img_file": "img_11.jpg",
+        "href": "https://www.infineon.com/"
+    },
+    {
+        "title": "intel(FPGA)",
+        "img_src": "https://www.jsuntech.co.jp/img/mo17.jpg",
+        "img_file": "img_12.jpg",
+        "href": "https://www.altera.co.jp/"
+    },
+    {
+        "title": "intel",
+        "img_src": "https://www.jsuntech.co.jp/img/mo18.jpg",
+        "img_file": "img_13.jpg",
+        "href": "https://www.intel.co.jp/content/www/jp/ja/homepage.html"
+    },
+    {
+        "title": "ISSI",
+        "img_src": "https://www.jsuntech.co.jp/img/mo20.jpg",
+        "img_file": "img_14.jpg",
+        "href": "http://www.issi.com/JP/index.shtml"
+    },
+    {
+        "title": "Lantronix",
+        "img_src": "https://www.jsuntech.co.jp/img/mo21.jpg",
+        "img_file": "img_15.jpg",
+        "href": "http://www.lantronix.jp/index.html"
+    },
+    {
+        "title": "Lattice",
+        "img_src": "https://www.jsuntech.co.jp/img/mo22.jpg",
+        "img_file": "img_16.jpg",
+        "href": "http://www.latticesemi.com/ja-JP"
+    },
+    {
+        "title": "Macronix",
+        "img_src": "https://www.jsuntech.co.jp/img/mo23.jpg",
+        "img_file": "img_17.jpg",
+        "href": "http://www.macronix.com/en-us/Pages/default.aspx"
+    },
+    {
+        "title": "MAXIM integrated",
+        "img_src": "https://www.jsuntech.co.jp/img/mo24.jpg",
+        "img_file": "img_18.jpg",
+        "href": "https://www.maximintegrated.com/jp.html"
+    },
+    {
+        "title": "Microchip Technology",
+        "img_src": "https://www.jsuntech.co.jp/img/mo25.jpg",
+        "img_file": "img_19.jpg",
+        "href": "https://www.microchip.com/"
+    },
+    {
+        "title": "Micron Technology",
+        "img_src": "https://www.jsuntech.co.jp/img/mo26.jpg",
+        "img_file": "img_20.jpg",
+        "href": "https://www.micron.com/"
+    },
+    {
+        "title": "NXP",
+        "img_src": "https://www.jsuntech.co.jp/img/mo29.jpg",
+        "img_file": "img_23.jpg",
+        "href": "https://www.nxp.com/jp/"
+    },
+    {
+        "title": "On Semiconductor",
+        "img_src": "https://www.jsuntech.co.jp/img/mo30.jpg",
+        "img_file": "img_24.jpg",
+        "href": "http://www.onsemi.jp/"
+    },
+    {
+        "title": "Preci-Dip",
+        "img_src": "https://www.jsuntech.co.jp/img/mo31.jpg",
+        "img_file": "img_25.jpg",
+        "href": "http://www.precidip.com/en/Home.html"
+    },
+    {
+        "title": "SEMIKRON",
+        "img_src": "https://www.jsuntech.co.jp/img/mo33.jpg",
+        "img_file": "img_26.jpg",
+        "href": "https://www.semikron.com/jp.html"
+    },
+    {
+        "title": "SEMTECH(ex-GENNUM)",
+        "img_src": "https://www.jsuntech.co.jp/img/mo34.jpg",
+        "img_file": "img_27.jpg",
+        "href": "https://www.semtech.com/"
+    },
+    {
+        "title": "Silicon Laboratories",
+        "img_src": "https://www.jsuntech.co.jp/img/mo35.jpg",
+        "img_file": "img_28.jpg",
+        "href": "http://www.silabs.com/"
+    },
+    {
+        "title": "STMicroelectronics",
+        "img_src": "https://www.jsuntech.co.jp/img/mo38.jpg",
+        "img_file": "img_30.jpg",
+        "href": "http://www.st.com/content/st_com/ja.html"
+    },
+    {
+        "title": "Taoglas",
+        "img_src": "https://www.jsuntech.co.jp/img/mo40.jpg",
+        "img_file": "img_31.jpg",
+        "href": "http://www.taoglas.com/"
+    },
+    {
+        "title": "TEXAS INSTRUMENTS",
+        "img_src": "https://www.jsuntech.co.jp/img/mo41.jpg",
+        "img_file": "img_32.jpg",
+        "href": "http://www.tij.co.jp/"
+    },
+    {
+        "title": "u-blox",
+        "img_src": "https://www.jsuntech.co.jp/img/mo42.jpg",
+        "img_file": "img_33.jpg",
+        "href": "https://www.u-blox.com/en"
+    },
+    {
+        "title": "VICOR",
+        "img_src": "https://www.jsuntech.co.jp/img/mo43.jpg",
+        "img_file": "img_34.jpg",
+        "href": "http://www.vjcp.jp/"
+    },
+    {
+        "title": "旭化成エレクトロニクス",
+        "img_src": "https://www.jsuntech.co.jp/img/md02.jpg",
+        "img_file": "img_36.jpg",
+        "href": "https://www.akm.com/jp/ja/"
+    },
+    {
+        "title": "inrevium",
+        "img_src": "https://www.jsuntech.co.jp/img/md04.jpg",
+        "img_file": "img_37.jpg",
+        "href": "http://www.inrevium.com/"
+    },
+    {
+        "title": "OMRON",
+        "img_src": "https://www.jsuntech.co.jp/img/md06.jpg",
+        "img_file": "img_39.jpg",
+        "href": "http://www.omron.co.jp/ecb/"
+    },
+    {
+        "title": "KYOCERA Corporation",
+        "img_src": "https://www.jsuntech.co.jp/img/md08.jpg",
+        "img_file": "img_41.jpg",
+        "href": "https://www.kyocera.co.jp/prdct/display/"
+    },
+    {
+        "title": "cosel",
+        "img_src": "https://www.jsuntech.co.jp/img/md10.jpg",
+        "img_file": "img_43.jpg",
+        "href": "https://www.cosel.co.jp/"
+    },
+    {
+        "title": "新電元工業株式会社",
+        "img_src": "https://www.jsuntech.co.jp/img/md12.jpg",
+        "img_file": "img_45.jpg",
+        "href": "http://www.shindengen.co.jp/top_j/index.html"
+    },
+    {
+        "title": "New Japan Radio Co.,Ltd.",
+        "img_src": "https://www.jsuntech.co.jp/img/md13.jpg",
+        "img_file": "img_46.jpg",
+        "href": "http://www.njr.co.jp/"
+    },
+    {
+        "title": "STANLEY ELECTRIC CO., LTD.",
+        "img_src": "https://www.jsuntech.co.jp/img/md14.jpg",
+        "img_file": "img_47.jpg",
+        "href": "http://www.stanley.co.jp/index.php"
+    },
+    {
+        "title": "Step Technica",
+        "img_src": "https://www.jsuntech.co.jp/img/md15.jpg",
+        "img_file": "img_48.jpg",
+        "href": "http://www.steptechnica.com/"
+    },
+    {
+        "title": "スリーエムジャパン",
+        "img_src": "https://www.jsuntech.co.jp/img/md16.jpg",
+        "img_file": "img_49.jpg",
+        "href": "http://www.3mcompany.jp/3M/ja_JP/company-jp/"
+    },
+    {
+        "title": "Seiko Instruments Inc.",
+        "img_src": "https://www.jsuntech.co.jp/img/md17.jpg",
+        "img_file": "img_50.jpg",
+        "href": "http://www.sii.co.jp/jp/"
+    },
+    {
+        "title": "SEIKO NPC CORPORATION",
+        "img_src": "https://www.jsuntech.co.jp/img/md18.jpg",
+        "img_file": "img_51.jpg",
+        "href": "http://www.npc.co.jp/"
+    },
+    {
+        "title": "Seiko Epson Corp.",
+        "img_src": "https://www.jsuntech.co.jp/img/md19.jpg",
+        "img_file": "img_52.jpg",
+        "href": "http://www.epson.jp/"
+    },
+    {
+        "title": "TDK",
+        "img_src": "https://www.jsuntech.co.jp/img/md21.jpg",
+        "img_file": "img_54.jpg",
+        "href": "https://product.tdk.com/info/ja/index.html"
+    },
+    {
+        "title": "東芝デバイス＆ストレージ株式会社",
+        "img_src": "https://www.jsuntech.co.jp/img/md22.jpg",
+        "img_file": "img_55.jpg",
+        "href": "http://toshiba.semicon-storage.com/jp/top.html"
+    },
+    {
+        "title": "トレックス・セミコンダクター株式会社",
+        "img_src": "https://www.jsuntech.co.jp/img/md23.jpg",
+        "img_file": "img_56.jpg",
+        "href": "https://www.torex.co.jp/"
+    },
+    {
+        "title": "七星科学研究所",
+        "img_src": "https://www.jsuntech.co.jp/img/md24.jpg",
+        "img_file": "img_57.jpg",
+        "href": "https://www.nanabosi.co.jp/"
+    },
+    {
+        "title": "浜松ホトニクス",
+        "img_src": "https://www.jsuntech.co.jp/img/md25.jpg",
+        "img_file": "img_58.jpg",
+        "href": "http://www.hamamatsu.com/jp/ja/index.html"
+    },
+    {
+        "title": "ヒロセ電機",
+        "img_src": "https://www.jsuntech.co.jp/img/md26.jpg",
+        "img_file": "img_59.jpg",
+        "href": "https://www.hirose.com/jp/"
+    },
+    {
+        "title": "富士通",
+        "img_src": "https://www.jsuntech.co.jp/img/md27.jpg",
+        "img_file": "img_60.jpg",
+        "href": "http://www.fujitsu.com/jp/"
+    },
+    {
+        "title": "Bellnix",
+        "img_src": "https://www.jsuntech.co.jp/img/md29.jpg",
+        "img_file": "img_62.jpg",
+        "href": "http://www.bellnix.co.jp/"
+    },
+    {
+        "title": "MITSUMI",
+        "img_src": "https://www.jsuntech.co.jp/img/md30.jpg",
+        "img_file": "img_63.jpg",
+        "href": "http://www.mitsumi.co.jp/"
+    },
+    {
+        "title": "LAPIS Semiconductor Co., Ltd.",
+        "img_src": "https://www.jsuntech.co.jp/img/md31.jpg",
+        "img_file": "img_64.jpg",
+        "href": "http://www.lapis-semi.com/jp/"
+    },
+    {
+        "title": "RICOH",
+        "img_src": "https://www.jsuntech.co.jp/img/md32.jpg",
+        "img_file": "img_65.jpg",
+        "href": "https://www.e-devices.ricoh.co.jp/ja/products/"
+    },
+    {
+        "title": "Renesas",
+        "img_src": "https://www.jsuntech.co.jp/img/md33.jpg",
+        "img_file": "img_66.jpg",
+        "href": "https://www.renesas.com/ja-jp/"
+    },
+    {
+        "title": "ROHM",
+        "img_src": "https://www.jsuntech.co.jp/img/md34.jpg",
+        "img_file": "img_67.jpg",
+        "href": "http://www.rohm.co.jp/web/japan/"
+    }
+]

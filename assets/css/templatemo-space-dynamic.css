@@ -1164,7 +1164,7 @@ business-info Style
 	margin-bottom: 30px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 991px) {
 	.business-info .contents-ele .row {
 		display: flex;
 		flex-direction: column;
