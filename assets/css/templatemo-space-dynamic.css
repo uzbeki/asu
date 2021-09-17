@@ -29,6 +29,7 @@ font & reset css
 --------------------------------------------- 
 */
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
 /* 
 ---------------------------------------------
 reset
@@ -970,6 +971,7 @@ Banner Style
 	padding: 226px 0px 120px 0px;
 	position: relative;
 	overflow: hidden;
+	margin-top: 100px;
 }
 
 .main-banner:before {

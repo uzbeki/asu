@@ -340,5 +340,29 @@
         "img_src": "https://www.jsuntech.co.jp/img/md34.jpg",
         "img_file": "img_67.jpg",
         "href": "http://www.rohm.co.jp/web/japan/"
+    },
+    {
+        "title": "TOKIN Corporation",
+        "img_src": "",
+        "img_file": "tokin.png",
+        "href": "https://www.tokin.com/"
+    },
+    {
+        "title": "TAKACHI ELECTRONICS ENCLOSURE CO., LTD.",
+        "img_src": "",
+        "img_file": "takachi.png",
+        "href": "https://www.takachi-el.co.jp/"
+    },
+    {
+        "title": "Japan Aviation Electronics Industry, Ltd.",
+        "img_src": "",
+        "img_file": "jae.png",
+        "href": "https://www.jae.com/"
+    },
+    {
+        "title": "日本圧着端子製造株式会社",
+        "img_src": "",
+        "img_file": "jst.png",
+        "href": "https://www.jst-mfg.com/"
     }
 ]
