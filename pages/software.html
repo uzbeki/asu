@@ -32,7 +32,7 @@
 	</head>
 
 	<body>
-		<!-- ***** Preloader Start ***** -->
+		<!-- **** Preloader Start **** -->
 		<div id="js-preloader" class="js-preloader">
 			<div class="preloader-inner">
 				<span class="dot"></span>
@@ -43,23 +43,23 @@
 				</div>
 			</div>
 		</div>
-		<!-- ***** Preloader End ***** -->
+		<!-- **** Preloader End **** -->
 
-		<!-- ***** Header Area Start ***** -->
+		<!-- **** Header Area Start **** -->
 		<header class="header-area header-sticky wow slideInDown" data-wow-duration="0.75s" data-wow-delay="0s">
 			<div class="container">
 				<div class="row">
 					<div class="col-12">
 						<nav class="main-nav">
-							<!-- ***** Logo Start ***** -->
+							<!-- **** Logo Start **** -->
 							<a href="../index.html" class="logo">
 								<div>
 									<img src="../assets/images/logo64.png" align="left" alt="logo" />
 									<h4>株式会社<span>アース</span></h4>
 								</div>
 							</a>
-							<!-- ***** Logo End ***** -->
-							<!-- ***** Menu Start ***** -->
+							<!-- **** Logo End **** -->
+							<!-- **** Menu Start **** -->
 							<ul class="nav">
 								<li class="scroll-to-section"><a href="../index.html" class="">ホーム</a></li>
 								<li class="scroll-to-section dropdown active">
@@ -94,24 +94,27 @@
 							<a class="menu-trigger">
 								<span>Menu</span>
 							</a>
-							<!-- ***** Menu End ***** -->
+							<!-- **** Menu End **** -->
 						</nav>
 					</div>
 				</div>
 			</div>
 		</header>
-		<!-- ***** Header Area End ***** -->
+		<!-- **** Header Area End **** -->
 		<main>
 			<section id="weare">
-				<h1>We are <span id="textAnimation">ASTERONE</span></h1>
+				<h1><span id="textAnimation">ソフトウェア開発</span>をお任せください</h1>
 			</section>
 			<section id="software_intro" class="container wow animated fadeInRight">
 				<div class="software-content">
-					<h2>ソフトウェア開発をお任せ</h2>
-					<p>あなたのドリームの実現は我々の手で安心。現代の技術を使ってフルスタックな開発をいたします。美しさ、使いやすさが優れたクオリティのホームページ等をやっちゃいます。</p>
-					<button>
-						<a href="./contact.html">すぐに連絡<i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i></a>
-					</button>
+					<h2>ソフトウェア開発事業</h2>
+					<!-- <p>パートナー企業と連携し、ソフトウェア開発の対応を行います。あなたのドリームの実現は我々の手で安心。現代の技術を使ってフルスタックな開発をいたします。美しさ、使いやすさが優れたクオリティのホームページ等をやっちゃいます。</p> -->
+					<p>
+						パートナー企業の<a href="https://asterone.co.jp" target="_blank">(株)アスタワン</a
+						>と連携し、ソフトウェア開発の対応を行います。音・音楽・楽器関連事業の実績を得て、ソフトウェア開発（アプリケーション・ミドルウェア・ファームウェアをはじめ、デバイスドライバ・Webアプリケーション・VSTプラグイン・ネットワークシステム・システムテスト）の幅広い分野に対応します。
+					</p>
+					<p class="contact-description text-muted" style="font-size: 12px; margin-top: 1rem;">ソフトウェアに関する連絡はこちらから　<i class="fa fa-angle-double-down" aria-hidden="true"></i></p>
+					<button class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#contactModal">すぐに連絡<i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i></button>
 				</div>
 				<div class="software-img">
 					<img src="../assets/images/programming.png" alt="" srcset="" />
@@ -124,12 +127,62 @@
 				<div class="row software-content">
 					<div class="col-12">
 						<h2>モバイルアプリ開発</h2>
-						<p>あなたのドリームの実現は我々の手で安心。現代の技術を使ってフルスタックな開発をいたします。美しさ、使いやすさが優れたクオリティのホームページ等をやっちゃいます。</p>
+						<p>スマートフォンアプリケーション開発を行っています。iOSとandroidの両OSについて豊富な開発実績があります。約１０年間の実務経験を生かしたエンジニアが高品質な製品を提供します。</p>
 					</div>
 				</div>
 			</section>
 		</main>
 
+		<div class="floating-contact-button wow animated bounceIn" data-wow-delay="1s" data-wow-duration="1s">
+			<a href="../pages/contact.html"><i class="fa fa-envelope-o" aria-hidden="true"></i></a>
+		</div>
+
+		<!-- Modal -->
+		<div class="modal fade p-0" id="contactModal" tabindex="-1" aria-labelledby="contactModalLabel" aria-hidden="true">
+			<div class="modal-dialog modal-dialog-scrollable modal-dialog-centered">
+				<div class="modal-content">
+					<div class="modal-header">
+						<h5 class="modal-title" id="contactModalLabel">お問い合わせ</h5>
+						<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+					</div>
+					<div class="modal-body">
+						<form action="https://formsubmit.co/54352337203304f6e974707470edb9cd" method="post" class="form-horizontal" id="contactAsterone">
+							<input type="hidden" name="_subject" value="新規お問い合わせ｜(株)アースHP経由" />
+							<input type="hidden" name="_autoresponse" value="お問い合わせの内応をご確認ください。" />
+							<input type="hidden" name="_template" value="table" />
+							<input type="hidden" name="_next" id="formRedirectPage" value="" />
+							<!-- <input type="hidden" name="_cc" value="email@email.com,email@email.com"> -->
+							<!-- <input type="hidden" name="_captcha" value="false"> -->
+							<section class="form-group mb-3">
+								<label class="mb-1" for="name">お名前 <span class="text-danger">（必須）</span></label>
+								<input type="text" class="form-control" id="name" name="name" required />
+							</section>
+							<section class="form-group mb-3">
+								<label class="mb-1" for="email">メールアドレス <span class="text-danger">（必須）</span></label>
+								<input type="email" class="form-control" id="email" name="email" required />
+							</section>
+							<section class="form-group mb-3">
+								<label class="mb-1" for="phone">電話番号</label>
+								<input type="number" class="form-control" id="phone" name="phone" />
+							</section>
+							<section class="form-group mb-3">
+								<label class="mb-1" for="company_name">会社名</label>
+								<input type="text" class="form-control" id="company_name" name="company_name" />
+							</section>
+							<section class="form-group mb-3">
+								<label class="mb-1" for="message">問い合わせ内容 <span class="text-danger">（必須）</span></label>
+								<textarea class="form-control" id="message" name="message" required></textarea>
+							</section>
+						</form>
+					</div>
+					<div class="modal-footer">
+						<button type="button" class="btn btn-secondary" data-bs-dismiss="modal">閉じる</button>
+						<button type="submit" class="btn btn-primary" form="contactAsterone">送信する</button>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- Scripts -->
 		<footer>
 			<ul class="footer-menu">
 				<li>｜ <a href="../pages/privacy.html">プライバシーポリシー</a> ｜</li>
@@ -138,10 +191,7 @@
 			<p>© Copyright 2021 EARTH CO., LTD. All Rights Reserved.</p>
 			<p>Made with ❤ by <a href="http://asterone.co.jp" target="_blank">ASTERONE Co., LTD</a></p>
 		</footer>
-		<div class="floating-contact-button wow animated bounceIn" data-wow-delay="1s" data-wow-duration="1s">
-			<a href="../pages/contact.html"><i class="fa fa-envelope-o" aria-hidden="true"></i></a>
-		</div>
-		<!-- Scripts -->
+		
 		<script>
 			// Some random colors
 			const colors = ["#3CC157", "#2AA7FF", "#1B1B1B", "#FCBC0F", "#F85F36"];
@@ -152,9 +202,9 @@
 			for (let i = 0; i < numBalls; i++) {
 				let ball = document.createElement("div");
 				ball.classList.add("ball");
-				ball.style.background = colors[Math.floor(Math.random() * colors.length)];
-				ball.style.left = `${Math.floor(Math.random() * 100)}vw`;
-				ball.style.top = `${Math.floor(Math.random() * 100)}vh`;
+				ball.style.background = colors[Math.floor(Math.random()*colors.length)];
+				ball.style.left = `${Math.floor(Math.random()*100)}vw`;
+				ball.style.top = `${Math.floor(Math.random()*100)}vh`;
 				ball.style.transform = `scale(${Math.random()})`;
 				ball.style.width = `${Math.random()}em`;
 				ball.style.height = ball.style.width;
@@ -166,22 +216,20 @@
 			// Keyframes
 			balls.forEach((el, i, ra) => {
 				let to = {
-					x: Math.random() * (i % 2 === 0 ? -11 : 11),
-					y: Math.random() * 12,
+					x: Math.random()*(i % 2 === 0 ? -11 : 11),
+					y: Math.random()*12,
 				};
 
 				let anim = el.animate([{ transform: "translate(0, 0)" }, { transform: `translate(${to.x}rem, ${to.y}rem)` }], {
-					duration: (Math.random() + 1) * 6000, // random duration
+					duration: (Math.random() + 1)*6000, // random duration
 					direction: "alternate",
-					// delay: (Math.random() + 1) * 1000, // random delay
+					// delay: (Math.random() + 1)*1000, // random delay
 
 					fill: "both",
 					iterations: Infinity,
 					easing: "ease-in-out",
 				});
 			});
-
-			/* Header we are asterone section animation */
 		</script>
 		<script src="../vendor/jquery/jquery.min.js"></script>
 		<script src="../vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
@@ -193,14 +241,16 @@
 		<script>
 			let textAnimation = document.querySelector("#textAnimation");
 			const typed = new Typed("#textAnimation", {
-				strings: ["ASTERONE", "ソフトウェアエンジニア", "バックエンドエンジニア", "フロントエンドエンジニア", "クラウドエンジニア"],
+				strings: ["ソフトウェア開発", "ウェブアプリ開発", "ホームページ作成", "クラウド対応", "ウェブデザイン", "データベース対応", "モバイルアプリ開発", "組込ソフトウェア開発"],
 				typeSpeed: 50,
 				smartBackspace: true,
 				loop: true,
-  				loopCount: Infinity,
+				loopCount: Infinity,
 				backDelay: 1700,
-				cursorChar: '_',
+				cursorChar: "_",
 			});
+			const redirectPageInput = document.querySelector("#formRedirectPage");
+			redirectPageInput.value = `${window.location.href.replace("software", "thankyou")}`;
 		</script>
 	</body>
 </html>
