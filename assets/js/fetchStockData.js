@@ -12,6 +12,9 @@
             create_rows(rows);
         });
         request.open('GET', dataPath, true); // csvのパスを指定
+        request.setRequestHeader('Pragma', 'no-cache');
+        request.setRequestHeader('Cache-Control', 'no-cache');
+        request.setRequestHeader('If-Modified-Since', 'Thu, 01 Jun 1970 00:00:00 GMT');
         request.send();
     }
     csv_data('../assets/stock.csv'); // csvのパス relative in terms of stocklist.html path
